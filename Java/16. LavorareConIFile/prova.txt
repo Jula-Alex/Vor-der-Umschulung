@@ -1,0 +1,4 @@
+Ciao sono Alex, sto facendo il corso di Java ed ho scritto questa riga con write()
+write() riscrive tutto mentre append() aggiunge al testo gia scritto 
+Ciao, questa riga invece l'ho scritta con append(), fai caso che append() aggiunge
+al testo gia scritto
