@@ -1,4 +1,4 @@
-Das ist was ich gelernt habe, bevor ich die Umschulung angefangen habe.
+Das ist, was ich vor Beginn der Umschulung gelernt habe.
 
 Quellen: 
 C# Course -> https://www.youtube.com/watch?v=GhQdlIFylQ8
